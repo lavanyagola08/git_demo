@@ -1,2 +1,2 @@
 # git_demo
-creating webapp repo created for practice
+repo created for practice
